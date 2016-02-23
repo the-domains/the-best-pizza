@@ -1,0 +1,28 @@
+name: The Best Pizza
+favicon: null
+layout_spectrum: 0.5004909245762974
+typography_spectrum: 0.5450184850487858
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.16992128011770546
+  lightness: 0.8555741256568581
+  saturation: 0.7007861938327551
+  rhythmicContrast: 0.5027928301133215
+purpose: []
