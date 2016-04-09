@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "In the area of modern algebra known as\_group theory, the\_Monster group\_M\_(also known as theFischer–Griess\_Monster, or the\_Friendly Giant) is the largest\_sporadic simple group, having\_order"
-datePublished: '2016-04-09T23:06:34.237Z'
-dateModified: '2016-04-09T23:05:54.755Z'
+description: Now Playing
+datePublished: '2016-04-09T23:17:42.980Z'
+dateModified: '2016-04-09T23:17:25.480Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-09-in-the-area-of-modern-algebra-known-as-group-theory-the-mon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-in-the-area-of-modern-algebra-known-as-group-theory-the-mon.md
-published: true
 url: in-the-area-of-modern-algebra-known-as-group-theory-the-mon/index.html
 _type: Article
 
@@ -34,7 +34,7 @@ It is difficult to make a good constructive definition of the Monster because of
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f4db5b8-8464-468c-8c1a-015ccc6b6865.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35635a51-2389-4824-8fec-11488695ec50.png)
 
-https://twitter.com/reverseocr/status/718864482475384838
+[Cortex][13]
 
 [0]: https://en.wikipedia.org/wiki/Group_theory "Group theory"
 [1]: https://en.wikipedia.org/wiki/Bernd_Fischer_(mathematician) "Bernd Fischer (mathematician)"
@@ -49,3 +49,4 @@ https://twitter.com/reverseocr/status/718864482475384838
 [10]: https://en.wikipedia.org/wiki/Subquotient "Subquotient"
 [11]: https://en.wikipedia.org/wiki/Robert_Griess "Robert Griess"
 [12]: https://en.wikipedia.org/wiki/Pariah_group "Pariah group"
+[13]: https://twitter.com/reverseocr/status/718864482475384838
